@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/postroom-website-v2.html" }
+  ]
+}
